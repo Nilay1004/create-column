@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-# name: discourse-plugin-name
-# about: TODO
+# name: create-column
+# about: Create column in discourse DB
 # meta_topic_id: TODO
 # version: 0.0.1
-# authors: Discourse
-# url: TODO
+# authors: Pankaj
+# url: https://github.com/Nilay1004/create-column/blob/main/README.md
 # required_version: 2.7.0
 
 enabled_site_setting :plugin_name_enabled
